@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Project Gallery #Your awesome title
-email: trakant32@gmail.com #your-email@domain.com
-author: SeungHyeon-Hong(ko.홍승현) #GitHub User
+title: osoworks_ #Your awesome title
+email: a01073729796@gmail.com #your-email@domain.com
+author: Junga Esther Kim #GitHub User
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,16 +40,16 @@ author: SeungHyeon-Hong(ko.홍승현) #GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2021-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2022-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-    You found me!
+    maybe you are finding your oso here?
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://seunghyeon-hong.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://osoworks.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "assets/img/favicon_wing_128.png" # the favicon for your site
 
 # Yat date format
@@ -73,7 +73,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-lang: "ko"  # default lang is en
+#lang: "ko"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -150,15 +150,15 @@ lang: "ko"  # default lang is en
 header_pages:
   - index.html
   - about.html #md
-  - categories.html
-  - tags.html
   - archives.html
+  - tags.html
+  - categories.html
 
 # Page default value
 defaults:
   home:
-    heading: "프로젝트 소개" #"Your awesome heading"
-    subheading: "기술소개서 & 프로젝트 경력서" #"Your awesome subheading"
+    heading: "osoworks_" #"Your awesome heading"
+    subheading: "Workin' osowork's space" #"Your awesome subheading"
     banner: "Your image url"
 
 # Banner default settings
