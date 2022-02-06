@@ -25,6 +25,8 @@ tags: 서포터즈
     <td>주요 역할 및 담당</td>
     <td colspan="3">인스타그램 계정 관리 및 게시물과 스토리 업로드, 그리고 게시물과 영상 제작 및 편집.</td>
   </tr>
+</table>
+
   <tr>
     <td>무엇이든 물어보세요</td>
     <td>기간: 2021-11-08 ~ 2022-01-31 (3개월)</td>
@@ -82,7 +84,6 @@ tags: 서포터즈
       www.instagram.com/p/CW16X6RJDYC/?tm_medium=copy_link
     </td>
   </tr>
-</table>
   
 ## Completion Certificate.
 
