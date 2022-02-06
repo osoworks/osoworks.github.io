@@ -2,11 +2,11 @@
 layout: post
 title: 코딩월드뉴스 에디터 6기
 subtitle: 2021-07-01 ~ ing (n개월)
-categories: 대외활동
-tags: 코딩월드뉴스
+categories: 2021
+tags: 기자단
 ---
 
-## News
+## 기자단
 - **Coding World News Editor n.6**
 <!-- <table>
   <tr>
