@@ -1,10 +1,8 @@
 # My Github Page!
 
-- Come to visit anytime :)  
-**https://github.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io**  
+- Come n visit. 
+**https://github.com/osoworks/osoworks.github.io**  
 
-- The source.  
-JEKYLL YAT THEME  
-https://github.com/jeffreytse/jekyll-theme-yat  
-visit and star them. you will like it! :star_struck:  
-  
+- The source n help where i got from.  
+**JEKYLL YAT THEME** https://github.com/jeffreytse/jekyll-theme-yat
+**HELP** https://github.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io
