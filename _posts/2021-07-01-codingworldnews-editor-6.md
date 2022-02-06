@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Unity 파이프라인 교체
-subtitle: 2021-07-01 ~ 2021-08-31 (2개월)
-categories: Co.GnFlex
-tags: 
+title: 코딩월드뉴스 에디터 6기
+subtitle: 2021-07-01 ~ ing (n개월)
+categories: 대외활동
+tags: 코딩월드뉴스
 ---
 
-## 주 프로젝트
-- **Unity 3D에서 URP로 환경 변경**
-<table>
+## News
+- **Coding World News Editor n.6**
+<!-- <table>
   <tr>
     <td>프로젝트명</td>
     <td>URP 환경 셋팅</td>
