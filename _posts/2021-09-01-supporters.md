@@ -27,7 +27,7 @@ tags: 서포터즈
   </tr>
 </table>
 
-  <tr>
+  <p>
     <td>무엇이든 물어보세요</td>
     <td>기간: 2021-11-08 ~ 2022-01-31 (3개월)</td>
     <td>게시물</td>
@@ -83,7 +83,7 @@ tags: 서포터즈
     <td colspan="3">
       www.instagram.com/p/CW16X6RJDYC/?tm_medium=copy_link
     </td>
-  </tr>
+  </p>
   
 ## Completion Certificate.
 
