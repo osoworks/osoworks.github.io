@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 교육박람회 전용 패키지
-subtitle: 2021-04-22 ~ 2021-07-01 (2개월)
-categories: Co.GnFlex
-tags: 
+title: 2021 이데일리 K-모빌리티 포럼 서포터즈
+subtitle: 2021-08-03 ~ 2021-09-15 (1개월)
+categories: 2021
+tags: 서포터즈
 ---
 
-## 주 프로젝트
-- 라이브 서비스와 **분리된 시스템**으로 제작 필요.  
-<table>
+## 서포터즈
+- **2021 edaily K-mobility forum supporters**  
+<!-- <table>
   <tr>
     <td>프로젝트명</td>
     <td>박람회 패키지</td>
