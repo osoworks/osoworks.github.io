@@ -1,11 +1,11 @@
 ---
 layout: post
-title: RUNRUN
-subtitle: 2019-05-29 ~ 2019-08-20 (3개월)
-categories: zest.Activities  
-tags: [Unity, PC, Android, Side-scrolling, RPG]  
+title: Sungshin Women's University Student council
+subtitle: 2021-03-30 ~ 2021-12-23 (3개월)
+categories: 2021  
+tags: [student_council]  
 ---
-
+<!--
 ## 개요  
 - 제목_ RUNRUN  
 - 기간_ 2019-05-29 ~ 2019-08-20 (3개월)  
@@ -60,3 +60,4 @@ void Update()
     }
 }
 ```  
+--!>
