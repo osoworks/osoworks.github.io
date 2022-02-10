@@ -27,7 +27,7 @@ tags: [서포터즈]
 - 학과별 브이로그 및 학과 소개   
 
 
-# 무엇이든 물어보세요 프로그램  
+### 무엇이든 물어보세요 프로그램  
 <p>카드뉴스</p>  
 <p>
       www.instagram.com/p/CWw5Qm8p1wh/?tm_medium=copy_link<br>
@@ -35,46 +35,46 @@ tags: [서포터즈]
       www.instagram.com/p/CX5BRfuvDBZ/?tm_medium=copy_link<br>
       www.instagram.com/p/CYc0uhKPGpY/?tm_medium=copy_link</p> 
 
-# 학과 소개 카드뉴스
+### 학과 소개 카드뉴스
 <p>카드뉴스</p>  
 <p>
       www.instagram.com/p/CW16X6RJDYC/?tm_medium=copy_link<br>
       www.instagram.com/p/CY8Shc0JZCM/?tm_medium=copy_link</p> 
 
-# 합격 수기 카드뉴스
+### 합격 수기 카드뉴스
 <p>카드뉴스</p>  
 <p>
       www.instagram.com/p/CW4UJR4voUa/?tm_medium=copy_link</p> 
 
-# 자소서 작성방법 카드뉴스
+### 자소서 작성방법 카드뉴스
 <p>카드뉴스</p>  
 <p> Upload it later </p>
       
-# 학과 인터뷰 카드뉴스
+### 학과 인터뷰 카드뉴스
 <p>카드뉴스</p>  
 <p>
       www.instagram.com/p/CY8Shc0JZCM/?tm_medium=copy_link</p>
 
-# 2023 수시모집 변경사항 카드뉴스
+### 2023 수시모집 변경사항 카드뉴스
 <p>카드뉴스</p>  
 <p>
       www.instagram.com/p/CZqFMV_Jo1P/?tm_medium=copy_link</p> 
 
-# 교내활동 카드뉴스
+### 교내활동 카드뉴스
 <p>카드뉴스</p> 
 <p> Upload it later </p>
       
-# 면접 대비 영상
+### 면접 대비 영상
 <p>영상</p>  
 <p>
       https://youtu.be/_jrvNvMQe8Y</p> 
       
-# 학과별 공부법 영상
+### 학과별 공부법 영상
 <p>영상</p>  
 <p>
       https://youtu.be/8x-aXzUoX9A</p> 
       
-# 학과별 브이로그 및 학과 소 영상
+### 학과별 브이로그 및 학과 소 영상
 <p>영상</p>  
 <p>
       https://youtu.be/Vevh0JTpiCs</p> 
