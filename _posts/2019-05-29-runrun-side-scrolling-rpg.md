@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sungshin Women's University Student council
-subtitle: 2021-03-30 ~ 2021-12-23 (3개월)
+subtitle: 2021-03-30 ~ 2021-12-23 (10개월)
 categories: 2021  
 tags: [student_council]  
 ---
