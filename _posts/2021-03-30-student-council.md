@@ -5,14 +5,13 @@ subtitle: 2021-03-30 ~ 2021-12-23 (10개월)
 categories: 2021  
 tags: [student_council]  
 ---
-<!--
 ## 개요  
-- 제목_ RUNRUN  
-- 기간_ 2019-05-29 ~ 2019-08-20 (3개월)  
-- 팀원_ 1인개발  
-- 결과_ PC/Mobile 크로스플랫폼 지원 빌드  
+- 제목_ 성신여자대학교 자주성신 총학생회 비상대책위원회 그린소통국
+- 기간_ 2021-03-30 ~ 2021-12-23 (10개월)
+- 팀원_ 5인 
 <br>
 
+<!--
 <iframe style="displey:block; width:100%; hetght:100%;" width="640" height="360" src="https://www.youtube.com/embed/-gJSakY-isQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 기획의도  
