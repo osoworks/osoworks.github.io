@@ -72,7 +72,7 @@ tags: 서포터즈
   </a>
 </p>
 
-<!-- [![PLAYSQ Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png)](https://www.instagram.com/playsq_official/?hl=en) -->
+ [![PLAYSQ Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png)](https://www.instagram.com/playsq_official/?hl=en) -->
 
 <hr>
 <!--
