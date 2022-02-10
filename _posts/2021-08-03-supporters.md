@@ -74,8 +74,6 @@ tags: 서포터즈
 
 <!-- [![PLAYSQ Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png)](https://www.instagram.com/playsq_official/?hl=en) -->
 
-<p><br></p>
--->
 <hr>
 <!--
 ### Fair Process
